@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#FF1CA380</color>
+    <color name="gray">#BFC9C3</color>
+    <color name="background">#FFF9FBF8</color>
+
+
+    <color name="colorPrimary">#024265</color>
+    <color name="colorPrimaryDark">#024265</color>
+    <color name="colorAccent">#05af9b</color>
+
+    <color name="color_one">#fb7268</color>
+    <color name="color_white">#ededf2</color>
+    <color name="color_two">#E3E0E0</color>
+
+    <color name="R">#FFA726</color>
+    <color name="Python">#66BB6A</color>
+    <color name="blue">#FF3799D2</color>
+
+    <color name="open_green">#FFD4F4E4</color>
+    <color name="dark_green2">#FF003829</color>
+    <color name="open_green2">#FF44BF99</color>
+
+    <color name="gray2">#FF2E312F</color>
+    <color name="green2">#FF1CA380</color>
+
+
+    <color name="dark_green">#FF002117</color>
+    <color name="open_gray">#FF707974</color>
+    <color name="open_gray2">#FF747875</color>
+    <color name="gray3">#FF8E928F</color>
+
+
+    //Pie chart colors
+    <color name="purple_200">#0F9D58</color>
+    <color name="purple_500">#0F9D58</color>
+    <color name="purple_700">#0F9D58</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="grey">#aaa</color>
+    <color name="button_color">#1E573B</color>
+
+    <color name="yellow">#FFEB3B</color>
+    <color name="red">#F44336</color>
+</resources>

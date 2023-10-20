@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CustomTabLayoutStyle" parent="Widget.Design.TabLayout">
+        <!-- Customize the background color -->
+        <item name="tabBackground">@color/open_green</item>
+        <item name="tabIndicator">@drawable/tab_indicator_shape</item>
+        <item name="tabIndicatorColor">@color/open_green2</item>
+        <item name="tabIndicatorHeight">4dp</item>
+        <item name="tabMaxWidth">0dp</item>
+        <!-- Customize the text color of selected and unselected tabs -->
+        <item name="tabTextColor">@color/open_green2</item>
+
+        <item name="tabSelectedTextColor">@color/green</item>
+    </style>
+
+</resources>

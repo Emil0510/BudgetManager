@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/dashboard" android:icon="@drawable/on_dashboard_selected" android:title="Dashboard" />
+    <item android:id="@+id/budget" android:icon="@drawable/on_budget_selected" android:title="Budget"/>
+    <item android:id="@+id/add" android:icon="@drawable/on_add_selected" android:title="Add"/>
+    <item android:id="@+id/advices" android:icon="@drawable/on_advices_selected" android:title="Advices"/>
+    <item android:id="@+id/more" android:icon="@drawable/on_more_selected" android:title="More"/>
+
+</menu>
