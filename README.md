@@ -5,7 +5,7 @@
   * [Links](#links)
 * [My Process](#my_Process)
   * [Built with](#built_with)
-* [Author](#author)
+* [Authors](#authors)
 
 ## Overview
 <a name="overview"></a>
@@ -114,5 +114,6 @@ Users should be able to:
   </li>
 </ul>
 
-## Author
-<a name="author"></a>
+## Authors
+<a name="authors"></a>
+
