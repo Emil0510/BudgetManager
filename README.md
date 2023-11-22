@@ -7,6 +7,10 @@
   * [Built with](#built_with)
 * [Authors](#authors)
 
+## How to run the app
+Click <a href="https://drive.google.com/file/d/1equIfpqjZH84Seu0odIm2QysLvljXtZH/view?usp=sharing">here</a> to download app.  
+And then you will face a screen on which you can install the app. After installation, you can use the app.
+
 ## Overview
 <a name="overview"></a>
 
