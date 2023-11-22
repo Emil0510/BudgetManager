@@ -6,17 +6,21 @@
     android:layout_height="match_parent"
     tools:context=".ui.activity.home.fragment.advice.AdvicesFragment">
 
-
-    <TextView
-        android:id="@+id/textView5"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="60dp"
-        android:text="Coming Soon"
-        android:textColor="@color/dark_green2"
-        android:textSize="30sp"
-        app:layout_constraintBottom_toBottomOf="parent"
+    <include
+        android:id="@+id/topFragment"
+        layout="@layout/fragment_text_layout"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/advicesRV"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="60dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/topFragment"
+        tools:listitem="@layout/advice_recycler_row" />
 </androidx.constraintlayout.widget.ConstraintLayout>

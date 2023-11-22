@@ -7,6 +7,7 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.activity.addCallback
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
@@ -71,6 +72,10 @@ class AllTransactionFragment : Fragment(), TransactionOnCLickListener {
             viewModel.observeCardTransactions().observe(viewLifecycleOwner, Observer {
                 (binding.allTransactionRV.adapter as TransactionRecyclerAdapter).updateList(it.reversed())
             })
+        }
+
+        requireActivity().onBackPressedDispatcher.addCallback(this) {
+            loadFragment(BudgetFragment())
         }
 
     }
