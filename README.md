@@ -8,7 +8,7 @@
 * [Authors](#authors)
 
 ## How to run the app
-Click <a href="https://drive.google.com/file/d/1equIfpqjZH84Seu0odIm2QysLvljXtZH/view?usp=sharing">here</a> to download app.  
+Click <a href="https://drive.google.com/file/d/1DGMxzobX3LHUXeRAtCy0EL3eseRhzhYR/view?usp=sharing">here</a> to download app.  
 And then you will face a screen on which you can install the app. Click install and after installation, you can use the app.
 
 ## Overview
@@ -49,7 +49,7 @@ Users should be able to:
 ### Links
 <a name="links"></a>
 
-<a href="https://drive.google.com/file/d/1equIfpqjZH84Seu0odIm2QysLvljXtZH/view?usp=sharing">Live app download</a>
+<a href="https://drive.google.com/file/d/1DGMxzobX3LHUXeRAtCy0EL3eseRhzhYR/view?usp=sharing">Live app download</a>
 
 
 ## My Process
