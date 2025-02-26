@@ -5,7 +5,6 @@
   * [Links](#links)
 * [My Process](#my_Process)
   * [Built with](#built_with)
-* [Authors](#authors)
 
 ## How to run the app
 Click <a href="https://drive.google.com/file/d/1DGMxzobX3LHUXeRAtCy0EL3eseRhzhYR/view?usp=sharing">here</a> to download app.  
